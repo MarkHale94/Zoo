@@ -1,0 +1,12 @@
+body{
+    background-color: bisque;
+}
+nav{
+    background-color: lightpink;
+}
+footer{
+    background-color: lightpink;
+}
+.unstyled{
+    background-color: lightgrey;
+}
